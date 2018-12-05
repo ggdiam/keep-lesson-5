@@ -7,7 +7,12 @@
 Клонировать репо:
 
 ```
-git@github.com:ggdiam/keep-lesson-5.git
+git clone git@github.com:ggdiam/keep-lesson-5.git
+```
+
+Перейти в папку keep-lesson-5
+```
+cd keep-lesson-5
 ```
 
 Установить библиотеки из npm
