@@ -1,3 +1,5 @@
+# Изучаем React.js на примере создания приложения заметок
+
 Создан с использованием [Create React App](https://github.com/facebook/create-react-app).
 
 ## Исходники для 5 урока
